@@ -1,0 +1,315 @@
+@media only screen and (max-width: 600px) {
+    header .header-bottom {
+        text-align: center;
+    }
+
+    header .header-bottom .logo img {
+        max-width: 60%;
+    }
+
+    .content {
+        padding: 30px 20px;
+    }
+
+    .typo-lite h2 {
+        font-size: 34px;
+        line-height: 45px;
+        margin-bottom: 20px;
+    }
+
+    .typo-lite .menu-box h3 {
+        font-size: 12px;
+        line-height: 17px;
+        margin-bottom: 0px;
+    }
+
+    .typo-lite .menu-box img {
+        max-width: 60%;
+    }
+
+    .typo-lite .menu-box {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    header .header-top {
+        padding: 10px;
+    }
+
+    header .header-top .btn-2 {
+        font-size: 14px;
+    }
+
+    footer p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    footer .footer-link ul {
+        margin-top: 15px;
+    }
+
+    footer .footer-link ul li a {
+        font-size: 14px;
+        text-decoration: none;
+    }
+
+    button.navbar-toggler {
+        border: none;
+        margin: 10px auto;
+    }
+
+    .dt-align {
+        margin-left: 0%;
+    }
+
+    .header-nav li {
+        display: block;
+    }
+
+    .price-box {
+        margin-top: 20px;
+    }
+
+    .table-box .table-head {
+        padding: 20px 20px;
+    }
+
+    .home .content.content-lite .typo-lite h2 {
+        font-size: 36px;
+    }
+
+    .table-box .table-head h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .table-box .table-body {
+        padding: 20px 20px;
+    }
+
+    .table-box .table-body .table-row p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .table-box .table-body .table-row p.left {
+        width: 65%;
+    }
+
+    .table-box .table-body .table-row p.right {
+        width: 35%;
+    }
+
+    .table-box .table-body .table-row p strong {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .btn-mortage,
+    .btn-exit {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .table-box .table-body h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    a.btn.btn-new {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .hide-mobile {
+        display: none;
+    }
+
+    .mortgage-pgm {
+        padding: 30px 30px 20px 30px;
+    }
+
+    .mortgage-pgm h2 {
+        font-size: 28px;
+    }
+
+    .mortgage-pgm .btn-big,
+    .mortgage-pgm .btn-big-blue {
+        font-size: 27px;
+    }
+
+    .mortgage-pgm h3 {
+        font-size: 22px;
+    }
+
+    .space-70 {
+        padding: 20px 0px;
+    }
+
+    .space-90 {
+        padding: 25px 0px;
+    }
+
+    .space-100 {
+        padding: 30px 0px;
+    }
+
+    .btn-green {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+
+    .q-page h3 {
+        font-size: 30px;
+    }
+
+    .question-panel .question-box {
+        margin-bottom: 20px;
+    }
+
+    .q-page .questions-section .form-input-text.small {
+        width: 100%;
+    }
+
+    .q-page .questions-section .range-unit {
+        font-size: 4px;
+    }
+
+    .btn-next {
+        font-size: 15px;
+        padding: 7px 6px;
+        min-width: 130px;
+    }
+
+    .q-page .show-detail h3 {
+        font-size: 22px;
+    }
+
+    .q-page .show-detail h2 {
+        font-size: 32px;
+    }
+
+    .q-page .show-detail {
+        padding: 20px;
+    }
+
+    .q-page .inline-input {
+        padding: 0px 0px 0px 0px;
+        margin-bottom: 10px;
+    }
+
+    .q-page .inline-input input[type="text"] {
+        font-size: 20px;
+        min-width: 100%;
+        float: none;
+        border-radius: 0 0px 8px 8px;
+    }
+
+    .q-page .inline-input label {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .question-panel {
+        padding: 0px !important;
+    }
+
+    .question-panel .col {
+        width: 100% !important;
+        flex: inherit;
+    }
+
+    .question-panel .question-box .question-box-icon {
+        min-height: 54px;
+        margin-bottom: 10px;
+    }
+
+    .question-panel .question-box .question-box-icon img {
+        max-width: 50px;
+    }
+
+    .accounts-panel {
+        padding: 10px 10px;
+    }
+
+    .green-gradient-box .green-border h3 {
+        font-size: 23px;
+        line-height: 1.2;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .accounts-menu-panel a {
+        font-size: 16px;
+        padding: 16px 5px;
+        margin-bottom: 0px;
+    }
+
+    .accounts-menu-panel .col {
+        width: 50% !important;
+        flex: auto;
+    }
+
+    .accounts-menu-panel .row {
+        margin-bottom: 15px;
+    }
+
+    .accounts-heading h2 {
+        font-size: 24px !important;
+        line-height: 30px !important;
+    }
+
+    .accounts-white-box .accounts-highlight-box input[type="text"] {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .accounts-table-heading h2 {
+        font-size: 23px !important;
+        line-height: 1.2 !important;
+    }
+
+    .accounts-white-box h3 {
+        font-size: 20px !important;
+        line-height: 25px;
+    }
+
+    .step-btn-box .step-btn {
+        width: 80px;
+        height: 80px;
+        padding: 24px 0;
+        top: -44px;
+    }
+
+    .p-box {
+        margin-bottom: 20px;
+    }
+
+    .left-hr {
+        border-left: none;
+        padding: 10px 10px;
+        margin-top: 40px;
+    }
+
+    .btn-box .btn-white-1 {
+        margin-bottom: 20px;
+    }
+
+    .text-right img {
+        width: 100%;
+    }
+
+    .form-box {
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    .client-table {
+        overflow-y: scroll;
+    }
+
+    .preview img {
+        max-width: 100%;
+    }
+}
