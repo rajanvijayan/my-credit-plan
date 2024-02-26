@@ -316,4 +316,51 @@
     .table-box-new {
         overflow-y: scroll;
     }
+
+    .btn-gradient {
+        font-size: 16px;
+        line-height: 19px;
+        padding: 15px 10px;
+        margin-bottom: 10px;
+    }
+
+    .client-layer .client-content {
+        padding: 20px;
+    }
+
+    .text-right {
+        text-align: center;
+    }
+
+    .subscription .client-box .client-box-body label {
+        font-size: 16px;
+        color: #3b3b3b;
+    }
+
+    .p-box .p-box-head h2 {
+        font-size: 30px;
+        line-height: 1;
+    }
+    .client-layer .client-content p {
+        margin-bottom: 10px;
+    }
+    .p-box .p-box-head {
+        padding: 20px 20px;
+    }
+
+    .p-box .p-box-head h3 {
+        font-size: 26px;
+    }
+
+    .p-box.center-checkbox input[type="checkbox"] {
+        top: 158px;
+        left: 47%;
+    }
+
+    .btn-green-1 {
+        font-size: 17px;
+        line-height: 20px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
 }
